@@ -2,7 +2,7 @@
 
 In the next table will show the results iterating over i = 1e8 
 
-|            | Time     |
+| Loop type  | Time     |
 |------------|----------|
 | For Loop   | 43.029ms |
 | While Loop | 43.284ms |
